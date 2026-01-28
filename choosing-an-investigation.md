@@ -160,7 +160,15 @@ Passing these checks doesn’t guarantee publication — but it *does* make your
 
 ## Further Resources
 
-- GIJN **“Getting Started in Investigative Journalism”** (general methods and research) :contentReference[oaicite:4]{index=4}  
-- Al Jazeera Institute **Explainer on what to investigate** (angle & systemic focus) :contentReference[oaicite:5]{index=5}  
-- MediaHelpingMedia **Research and focus guidance** (pitfalls and how to avoid them) :contentReference[oaicite:6]{index=6}  
-- Oklahoma Press **Story idea questions** (practical prompts) :contentReference[oaicite:7]{index=7}
+- **GIJN – Getting Started in Investigative Journalism**  
+  https://gijn.org/topic/getting-started-in-investigative-journalism/
+
+- **Al Jazeera Institute – What Should Journalists Investigate?**  
+  https://institute.aljazeera.net/en/ajr/article/2074
+
+- **MediaHelpingMedia – Avoiding the Pitfalls of Investigative Journalism**  
+  https://mediahelpingmedia.org/investigative/avoiding-the-pitfalls-of-investigative-journalism/
+
+- **Oklahoma Press Association – Investigative Reporting Ideas**  
+  https://okpress.com/page/investigative-reporting-ideas
+
