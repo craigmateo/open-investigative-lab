@@ -127,3 +127,7 @@ Modules will be added, refined, and versioned over time.
 
 Feedback from journalists, editors, and researchers is especially welcome.
 
+## Curriculum
+
+**Coming Soon**
+
