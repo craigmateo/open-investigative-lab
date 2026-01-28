@@ -1,6 +1,6 @@
 # Open Investigative Forum
 
-The Open Investigative Forum is an open, practitioner-oriented commons for
+The Open Investigative Forum is for open, practitioner-oriented tools and learning materials for
 **investigative journalism, public records work, and data-driven accountability reporting**.
 
 It exists to support serious investigative practice outside expensive degree
