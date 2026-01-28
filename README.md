@@ -1,131 +1,125 @@
-# Open Investigative Data Journalism Curriculum
+# Open Investigative Forum
 
-An open, self-directed curriculum for learning **investigative journalism with a strong emphasis on public records, data analysis, and accountable reporting**.
+The Open Investigative Forum is an open, practitioner-oriented commons for
+**investigative journalism, public records work, and data-driven accountability reporting**.
 
-This project is inspired by initiatives like *Open Source Society University (OSSU)*, but adapted to the realities of investigative journalism:  
-there is no secret knowledge, no proprietary tools, and no shortcut credentials — only **methods, discipline, transparency, and published work**.
+It exists to support serious investigative practice outside expensive degree
+programs, proprietary training platforms, and prestige-driven credential systems.
 
-The goal is to provide a **serious, low-cost, reproducible learning path** that leads to a credible investigative portfolio.
+The forum is built on a simple premise:
 
----
-
-## Why this exists
-
-Many formal journalism programs are:
-- prohibitively expensive
-- geographically restrictive
-- light on real investigative output
-- heavy on credential signaling
-
-At the same time, most investigative skills are **learnable independently**, provided they are:
-- structured coherently
-- grounded in real-world workflows
-- tied to concrete deliverables
-- ethically and legally informed
-
-This curriculum is designed for people who want **substance over prestige**, and who understand that credibility in investigative journalism comes from **what you can demonstrate**, not what you paid for.
+> Credibility in investigative journalism comes from methods, evidence, and outcomes — not branding.
 
 ---
 
-## What this curriculum emphasizes
+## Purpose
 
-- Public records & freedom-of-information workflows  
-- Data cleaning, analysis, and reproducibility  
-- Verification, documentation, and methods transparency  
-- Institutional, regulatory, and corporate accountability  
-- Ethical reporting, harm minimization, and source protection  
-- Producing publishable investigative work
+Investigative journalism relies on:
+- document work
+- verification
+- institutional literacy
+- ethical judgment
+- methodological transparency
 
----
+Most of these skills are **learnable, shareable, and improvable in public**.
 
-## Who this is for
-
-- Journalists transitioning into investigative or data work  
-- Researchers, academics, or analysts moving toward public-interest reporting  
-- Self-directed learners who want a rigorous structure without enrolling in an expensive degree  
-- Anyone building an investigative portfolio outside traditional newsrooms  
-
-No prior journalism degree is required.  
-Comfort with reading documentation and learning independently is assumed.
+This project provides a structured space to:
+- document investigative methods
+- share reusable tools and workflows
+- develop open learning paths
+- archive case studies and exemplars
+- support peer-based learning and critique
 
 ---
 
-## Curriculum overview
+## What this is (and is not)
 
-The curriculum is modular and can be followed sequentially or selectively:
+**This is:**
+- an open repository of investigative methods and practices
+- a place to build and maintain open curricula
+- a collection of practical tools and templates
+- a reference for accountable, evidence-based reporting
 
-1. Orientation & investigative mindset  
-2. Public records, FOI, and document culture  
-3. Verification and evidence standards  
-4. From spreadsheets to SQL  
-5. Data cleaning and normalization  
-6. Data collection (scraping, bulk records, APIs where legal)  
-7. Basic statistics for journalists  
-8. Entities, networks, and relationships  
-9. Mapping and geospatial analysis  
-10. Visualization for investigations  
-11. Legal, ethical, and security considerations  
-12. Capstone investigation
-
-Tracks can be adapted toward:
-- records-based accountability journalism
-- data-heavy investigations
-- regulatory, corporate, or environmental reporting
+**This is not:**
+- a credentialing body
+- a substitute for newsroom editorial judgment
+- a marketing platform or content mill
+- a shortcut to investigative authority
 
 ---
 
-## Capstone requirement
+## Areas of focus
 
-The curriculum culminates in a **full investigative project**, including:
+The forum prioritizes:
+- public records and freedom-of-information workflows
+- data collection, cleaning, and analysis
+- verification and evidence standards
+- institutional, regulatory, and corporate accountability
+- transparency and reproducibility
+- ethical reporting and harm minimization
 
-- a written pitch memo  
-- a records and sources log  
-- cleaned data + reproducible analysis  
-- a methods appendix explaining how claims were established  
-- a publishable story (self-published or submitted to an outlet)
-
-This capstone is the **primary credential** produced by the curriculum.
-
----
-
-## Ethics and constraints
-
-This project follows strict principles:
-
-- Only open, public-domain, or lawfully obtained data  
-- No doxxing or publication of sensitive personal data  
-- Emphasis on verification, proportionality, and harm minimization  
-- Legal contexts vary by country — users are responsible for compliance  
-
-Investigative journalism carries real responsibilities. This curriculum treats that seriously.
+Approaches and legal contexts vary by country; contributors are expected to
+note jurisdictional constraints where relevant.
 
 ---
 
-## How to use this repo
+## Open curriculum
 
-- Work through modules at your own pace  
-- Complete assignments and keep them under version control  
-- Publish or archive your capstone transparently  
-- Fork the repo if you want to adapt it to your country or language  
+The `curriculum/` section hosts **open, self-directed learning paths** modeled
+loosely on open-source education initiatives.
+
+Curricula emphasize:
+- concrete investigative outputs
+- documented methods
+- reproducible analysis
+- capstone investigations
+
+Completion of a curriculum does **not** confer any formal credential.
+The primary outcome is a **publicly defensible body of work**.
 
 ---
 
-## Contributions
+## Ethics and responsibility
 
-Contributions are welcome if they:
-- add substantive investigative value
+Investigative journalism carries real consequences.
+
+All contributions must adhere to the following principles:
+- use only open, public-domain, or lawfully obtained data
+- avoid publication of sensitive personal data
+- prioritize verification over speed
+- document methods and limitations clearly
+- minimize harm and respect proportionality
+
+This forum does not host leaked materials or unlawfully obtained data.
+
+---
+
+## Participation and contributions
+
+Contributions are welcome from journalists, researchers, analysts, and
+self-directed learners who take investigative practice seriously.
+
+Good contributions:
+- add methodological clarity
+- improve reproducibility
+- document real investigative workflows
 - cite sources clearly
-- respect ethical and legal boundaries
-- improve clarity, rigor, or reproducibility
+- acknowledge uncertainty and limits
+
+See `CONTRIBUTING.md` for standards and submission guidelines.
 
 ---
 
 ## Status
 
-This is a living curriculum.  
-Modules will be added, refined, and versioned over time.
+The Open Investigative Forum is a living project.
 
-Feedback from journalists, editors, and researchers is especially welcome.
+Its value depends on:
+- rigor rather than scale
+- clarity rather than volume
+- thoughtful contribution rather than rapid growth
+
+Feedback and critique are welcome.
 
 ## Curriculum
 
