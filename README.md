@@ -1,4 +1,4 @@
-# Open Investigative Forum
+# Open Investigative Lab
 
 The Open Investigative Forum is for open, practitioner-oriented tools and learning materials for
 **investigative journalism, public records work, and data-driven accountability reporting**.
