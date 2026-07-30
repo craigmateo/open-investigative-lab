@@ -7,7 +7,7 @@ type: software
 
 authors:
   - family-names: Frayne
-    given-names: Craig Mateo
+    given-names: Craig
     alias: craigmateo
 
 repository-code: "https://github.com/craigmateo/open-investigative-lab"
