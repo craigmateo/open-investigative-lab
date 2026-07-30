@@ -1,0 +1,39 @@
+cff-version: 1.2.0
+message: "If you use the Open Investigative Lab in research, teaching, or investigative practice, please cite this repository."
+
+title: "Open Investigative Lab"
+
+type: software
+
+authors:
+  - family-names: Frayne
+    given-names: Craig Mateo
+    alias: craigmateo
+
+repository-code: "https://github.com/craigmateo/open-investigative-lab"
+
+abstract: >
+  Open Investigative Lab is an open repository of investigative methods,
+  learning materials, reproducible workflows, and practical tools for
+  investigative journalism, public records research, and evidence-based
+  accountability reporting.
+
+keywords:
+  - investigative journalism
+  - journalism
+  - FOI
+  - freedom of information
+  - public records
+  - OSINT
+  - data journalism
+  - accountability
+  - verification
+  - transparency
+  - open education
+  - reproducible research
+
+license: MIT
+
+version: 0.1.0
+
+date-released: 2026-07-30
